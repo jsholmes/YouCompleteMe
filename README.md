@@ -134,8 +134,21 @@ This software is licensed under the [GPL v3 license][gpl].
 © 2015 Francisco Lopes.  
 © 2013 Google Inc.
 
+<<<<<<< HEAD
 [YouCompleteMe]: https://github.com/Valloric/YouCompleteMe
 [VIM-PLUG]: https://github.com/junegunn/vim-plug
+=======
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Valloric/youcompleteme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[Clang]: http://clang.llvm.org/
+[vundle]: https://github.com/gmarik/vundle#about
+[pathogen]: https://github.com/tpope/vim-pathogen#pathogenvim
+[clang-download]: http://llvm.org/releases/download.html
+[brew]: http://mxcl.github.com/homebrew/
+[cmake-download]: http://www.cmake.org/cmake/resources/software.html
+[macvim]: https://github.com/macvim-dev/macvim/releases
+[vimrc]: http://vimhelp.appspot.com/starting.txt.html#vimrc
+>>>>>>> ed7f778a391f4867e076d76bdbea8c2f0d4fbda0
 [gpl]: http://www.gnu.org/copyleft/gpl.html
 [tracker]: https://github.com/oblitum/YouCompleteMe/issues?state=open
 [faster-candidates]: https://github.com/oblitum/clang/compare/faster-overload-candidates
